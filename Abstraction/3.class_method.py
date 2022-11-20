@@ -1,6 +1,6 @@
 class College:
 
-    college_name = "Edyoda"                     # static/class variable
+    college_name = "University"                     # static/class variable
 
     def __init__(self,student_name,student_rno):
         self.stud_name = student_name
